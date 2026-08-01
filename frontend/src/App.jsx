@@ -4,7 +4,7 @@ import LandingPage from './components/LandingPage';
 import MobileApp from './components/mobile/MobileApp';
 import AdminDashboard from './components/admin/AdminDashboard';
 import ResetPassword from './components/ResetPassword';
-import AuthCallback from './components/AuthCallback';
+import AuthCallback from './components/AuthCallBack';
 import { AuthContext } from './AuthContext';
 
 export default function App() {
